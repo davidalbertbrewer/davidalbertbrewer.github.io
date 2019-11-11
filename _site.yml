@@ -1,0 +1,22 @@
+name: "David Albert Brewer"
+output_dir: "."
+navbar:
+  title: "David Albert Brewer"
+  left:
+    - text: "Projects"
+      href: projects.html
+    - text: "Programming"
+      href: software.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/davidalbertbrewer
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/davidbrewer21
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/dabrewer/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
