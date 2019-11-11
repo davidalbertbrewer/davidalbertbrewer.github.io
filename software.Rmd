@@ -1,36 +1,71 @@
 ---
 ---
+<img src="https://davidalbertbrewer.s3-us-west-2.amazonaws.com/davidalbertbrewer_logo_20191110.png">
 
-<img src="https://davidalbertbrewer.s3-us-west-2.amazonaws.com/davidalbertbrewer_headshot_1.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
-
-This page is under construction....more software projects coming soon!    
+## This page is under construction....
+## More software projects coming soon!    
+<br>
+<br>
   
-*Web Applications in Python*  
-I have been using Flask to package analytics scripts and dashboards for my current job at [Education Logistics](https://www.edulog.com/)....however I don't have anything which I can make publicly available
+#### Web Applications in Python  
+**Flask is a great way for a data scientist like myself to share my work across an organization.**  
   
-Here is the framework I started with and built on top of this  
+I have been using Flask to package analytics scripts and dashboards for my current role at [Education Logistics](https://www.edulog.com/) working on telematics software.  
+Currently I don't have anything which I *should* make publicly available.  
+  
+However here is the framework I deployed to the Heroku cloud and then I built on top of this for several web apps:   
 [Flask App](http://davidalbertbrewer.herokuapp.com/)  
+<br>
   
-*Plotly Dash*  
-In 2018 I began using Dash by Plotly to productionalize my data analysis work.  I was introduced to this tool by a colleague and instantly realized how powerful this can be to take my scripts and implement them into a resilient web based dashboard.  These interactive charts can handle very robust analysis and user interaction.
+#### Plotly Dash
+**In 2018 I began using Dash by Plotly to productionalize my data analysis work.**  
   
-*Web Scraping*  
-I use web scraping tools in various projects  
-For real estate related work I have scraped homes for sale, foreclosure lists, Zillow data, etc.  
-When API integration is not easily (or cheaply) available I will often use web scraping to get the data from online sources.  This often requires using some basic methods to limit the frequency of hit to a given website or even some basic algorithms to simulate human online interaction with the website.  
+I was introduced to this tool by a colleague and instantly realized how powerful Dash can be to implement my scripts into a resilient web-based dashboard.  These interactive charts can handle robust analysis and user interaction.  
+I can make Dash apps available within a network or deployed to a web server like AWS.  
+<br>
+  
+#### Web Scraping
+**I regularly use web scraping tools in various projects.**    
+  
+For real estate related work I have scraped listings of homes for sale, foreclosure lists, Zillow data, etc.  
+When API integration is not easily (or cheaply) available I will use web scraping to get data from online sources.  Web scraping often requires using some basic methods to limit the frequency of hits to a given website or even some basic algorithms to simulate human online interaction with the website.  
+<br>
       
-*Elasticsearch*  
-I use Elasticsearch to index large data sets with millions of records.  
-Then I use Python scripting to build complex analysis on top of these data.  
-For prototyping I setup a local instance in either a Windows or Linux environment.
-For production I typically hand off my work to a core engineering team to implement this in a cloud environment.  
-Some examples of models put into production using Elasticsearch backend:  
- - Propensity score for online lead generation  
- - Vehicle diagnostics (J1939/OBD) for school district transportation departments with over 15K vehicles    
+#### Elasticsearch
+**I use Elasticsearch to index large data sets with millions of records.** 
   
-*Reporting Database*  
-I can take large structured or unstructured datasets and build reporting database systems.  To do this I create a Python application which interacts with a database backend usually in some flavor of SQL:  SQLite, Postgres, or MySQL.  
-
-*GUI in Python*
-I use Tkinter and Kivy to build GUI applications in Python.  Typically these are lightweight programs which can be compiled into a standalone executable for deploying analysis scripts on a server.  
+Then I will use Python scripting to build complex analysis on top of these data.  There are several packages which allow for relatively simple integration of Python analysis and Elasticsearch backends.  
+<ul>  
+ <li>For prototyping, I can setup my own local instance in either a Windows or Linux environment.</li>
+ <li>For production, I typically hand off my work to a core engineering team to implement in a cloud environment like AWS or Google Cloud.</li>  
+</ul>
+Some examples of my models put into production using Elasticsearch backend:  
+<ul>
+ <li>Propensity score for online lead generation</li>  
+ <li>Vehicle diagnostics (J1939/OBD) for school district transportation departments with over 15K vehicles</li>
+</ul>
+<br>
+  
+#### Reporting Database
+**I take large structured or unstructured datasets and build reporting database systems.**  
+  
+To do this I create a Python application which interacts with a database backend usually in some flavor of SQL:
+<ul>
+ <li>SQLite</li>  
+ <li>Postgres</li>  
+ <li>MySQL</li>
+</ul>
+<br>
+  
+#### GUI in Python
+**I use Tkinter and Kivy to build GUI applications in Python.**  
+  
+Typically these are lightweight programs which can be compiled into a standalone executable for deploying analysis scripts on a server.  
 I have also used these packages to build utilities for automating tasks.   
+<br>
+  
+#### Web Services/API
+**I build simple RESTful web services using Python.**  
+  
+I have also learned to use Postman to integrate and document microservice or service oriented architecture in my applications.  
+I can access available applications via API's to make use of external data in my own analysis.

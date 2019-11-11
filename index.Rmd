@@ -3,22 +3,50 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="https://davidalbertbrewer.s3-us-west-2.amazonaws.com/davidalbertbrewer_headshot_1.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="https://davidalbertbrewer.s3-us-west-2.amazonaws.com/davidalbertbrewer_headshot_1.jpg" style="width:50%; border:10px solid; margin-right: 20px; margin-left: 20px" align="right">
   
-My current skill set is at the intersection of business, statistics, computing, data analysis, and data modeling.  
+<br>
+<br>
+*Welcome,*  
+
+*This is my personal website designed as a portfolio to showcase my technical skills, previous projects, and software products.*  
   
+*My current skill set is at the intersection of business, statistics, computing, data analysis, and data modeling.* 
+  
+*Thanks,*  
+*David Brewer*
+<br>
+<br>
+  
+**Data Science Academic Experience**  
 I studied data science at the [University of Montana](https://www.umt.edu/study/data-science) and graduated with an MS in [Business Analytics](http://www.business.umt.edu/programs/graduate/msba-program/) as part of the inagural cohort in 2017. 
   
-I began my career working with a innovative startup focused on real estate technology, [Real Estate Pipeline](https://www.realestatepipeline.com/).
+<img src="https://davidalbertbrewer.s3-us-west-2.amazonaws.com/biz_card_idea_1.jpg" style="width:50%; margin-right: 20px;" align="right"> 
+
+**Early Career**  
+I began my career working with a innovative startup focused on real  
+estate technology.  I made significant contributions in sales and  
+marketing as well as technical project management.  This company  
+successfully went through an acquisition event and is now known as  
+[Real Estate Pipeline](https://www.realestatepipeline.com/).
   
+    
+  
+**Graduate Assistant**  
 During graduate school I worked as an assistant to professors:    
- - Dr. Shawn Clouse, MIS  
- - Dr. Jason Triche, Data Analytics  
- - Dr. Justin Angle, Marketing  
+<ul>
+<li>Dr. Shawn Clouse, MIS</li>  
+<li>Dr. Jason Triche, Data Analytics</li>  
+<li>Dr. Justin Angle, Marketing</li>  
+</ul>  
   
-I completed internships with local Montana companies:
- - [DataSmart Solutions](https://thinkdatasmart.com/) as a BI developer  
- - CTG, Inc now [CompuNet](https://www.compunet.biz/) as a junior data scientist  
- - [PayneWest Insurance](https://www.paynewest.com/) as a data analyst  
+**Internships**  
+I completed internships with several local Montana companies:  
+<ul>
+<li>BI developer at [DataSmart Solutions](https://thinkdatasmart.com/)</li>  
+<li>Junior data scientist at CTG, Inc now [CompuNet](https://www.compunet.biz/)</li>  
+<li>Data analyst at [PayneWest Insurance](https://www.paynewest.com/)</li>  
+</ul>  
   
-My full resume is available [here](files/David_Brewer_Resume.pdf).
+**More Information**  
+My full resume is available [here](files/David_Brewer_Resume.pdf).  
